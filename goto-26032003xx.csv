@@ -1,0 +1,2 @@
+name;account_no;conversation_id;template_type;customer_name;customer_no;id;status;capi_error;created_at;accepted_at;sent_at;delivered_at;read_at;failed_at;rejected_at
+(0 rows)
